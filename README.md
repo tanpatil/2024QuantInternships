@@ -61,23 +61,23 @@ QT = Quantitative Trading
 | [Peak6](https://peak6.com/careers/?l=&q=intern#jointheparty)| Chicago|[✅](https://careers.peak6.com/jobs/business-operation-services/chicago-illinois-united-states-of-america/software-engineering-internship-for-women-/JR100523#/)||[✅](https://careers.peak6.com/jobs/business-operation-services/chicago-illinois-united-states-of-america/trading-internship-for-women-/JR100524#/)|| The internships are geared towards women. The new grad roles are open to everyone.|<font color="yellow"> Applied FT, nothing to do </font>|
 | [QuantLab](https://www.quantlab.com/careers)| Houston||[✅](https://jobs.jobvite.com/quantlab/job/oxilofwi)||||<font color="orange"> Applied all </font>|
 | Radix Labs| Chicago|[✅](https://boards.greenhouse.io/radixtrading/jobs/6629921002)||[✅](https://boards.greenhouse.io/radixtrading/jobs/6629919002)|| Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. They don't publicize internships but they do select a handful of interns every year. Just email your resume. Rumor is that they offer the highest internship salaries. Culture is likely most similar to Renaissance. |<font color="yellow"> Applied FT, nothing to do </font>|
-| Renaissance| Setauket- East Setauket ||||| The legendary OG quant fund (medallion). Good luck with this one. You can email your resume and they do sometimes interview normal SWEs but it's very unlikely you'll get an interview for any other role unless you're extra-extraordinary.|
+| Renaissance| Setauket- East Setauket ||||| The legendary OG quant fund (medallion). Good luck with this one. You can email your resume and they do sometimes interview normal SWEs but it's very unlikely you'll get an interview for any other role unless you're extra-extraordinary.|<font color="orange"> Applied all </font>|
 | [Schonfeld](https://www.schonfeld.com/careers/open-positions?page=1&department=Early%20Engagement) |||||||<font color="orange"> Applied all </font>|
 | [Seven Eight](https://www.seveneightcapital.com/join-us)| NYC||||||<font color="yellow"> Nothing open </font>|
 | [SIG](https://careers.sig.com/intern-openings)| Bala Cynwyd|[✅]([https://careers.sig.com/job/7415/Software-Developer-C](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest))|[✅](https://careers.sig.com/job/7285/Equity-Research-Intern-Chicago)|[✅](https://careers.sig.com/job/7300/Trading-Intern-Philadelphia-Area)| QR and QT roles now open!| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side.|<font color="orange"> Applied (only SWE FT expression and post grad QR intern were available) </font>|
 | [Squarepoint](https://www.squarepoint-capital.com/careers)| NYC||[✅](https://www.squarepoint-capital.com/job#243853)||||<font color="orange"> Applied all </font>|
-| [TGS](https://www.tgsmc.com/careers/)| Irvine||||| TOP TOP TOP Tier.|
-| [Tower Research](https://www.tower-research.com/open-positions)| NYC|||[✅](https://www.tower-research.com/open-positions/?gh_jid=4360111)|| Pretty traditional portfolio manager culture.|
-| [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago|||[✅](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?gh_src=b1695fd27us)|||
+| [TGS](https://www.tgsmc.com/careers/)| Irvine||||| TOP TOP TOP Tier.|<font color="orange"> Applied all </font>|
+| [Tower Research](https://www.tower-research.com/open-positions)| NYC|||[✅](https://www.tower-research.com/open-positions/?gh_jid=4360111)|| Pretty traditional portfolio manager culture.|<font color="orange"> Applied all </font>|
+| [TransMarketGroup](https://www.transmarketgroup.com/careers)| Chicago|||[✅](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?gh_src=b1695fd27us)|||<font color="orange"> Applied all </font>|
 | [Two Sigma](https://careers.twosigma.com/careers/SearchJobs/?2047=%5B9813823%5D&2047_format=1532&listFilterMode=1)| NYC||[✅](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2024-Summer/12004)||| Founded by ex-DE-Shaw people. Collaborative and chill culture. The org is mostly composed of QRs and SWEs. More of a quant hedge fund, with a a smaller market making arm and a venture capital team.|<font color="orange"> Applied all </font>|
-| [Valkyrie Trading](https://www.valkyrietrading.com/careers/)| Chicago||[✅](https://www.valkyrietrading.com/careers/quantitative-researcher-intern-summer-2024/)||||
+| [Valkyrie Trading](https://www.valkyrietrading.com/careers/)| Chicago||[✅](https://www.valkyrietrading.com/careers/quantitative-researcher-intern-summer-2024/)||||<font color="orange"> Applied all </font>|
 | [Vatic Labs](http://www.vaticinvestments.com/careers/)| NYC||[✅](http://www.vaticinvestments.com/careers/?gh_jid=1751323)||| Founded by ex-Jump people.|<font color="orange"> Applied all </font>|
-| [Virtu Financial](https://www.virtu.com/careers/)| NYC, Austin|[✅](https://boards.greenhouse.io/virtu/jobs/6771390002)|[✅](https://boards.greenhouse.io/virtu/jobs/6864860002)|[✅](https://boards.greenhouse.io/virtu/jobs/6702651002)|||
+| [Virtu Financial](https://www.virtu.com/careers/)| NYC, Austin|[✅](https://boards.greenhouse.io/virtu/jobs/6771390002)|[✅](https://boards.greenhouse.io/virtu/jobs/6864860002)|[✅](https://boards.greenhouse.io/virtu/jobs/6702651002)|||<font color="orange"> Applied all </font>|
 | [Voleon](https://voleon.com/index.html%3Fp=124.html)| Berkeley|||[✅](https://jobs.lever.co/voleon/6bf8f7d9-135c-473e-be5d-be36f8f8931a)|| Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.|<font color="yellow"> Applied FT </font>|
-| [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)| Chicago|[✅](https://jobs.lever.co/wolve/30de7311-5504-4092-afbb-061e61bb7318)|||||
-| [WorldQuant](https://www.worldquant.com/career-listing/)| NYC||||||
-| [XTX Markets](https://www.xtxmarkets.com/#careers)| London||||| Branched out of GSA capital.|
-| **Other Companies** |||||||
+| [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)| Chicago|[✅](https://jobs.lever.co/wolve/30de7311-5504-4092-afbb-061e61bb7318)|||||<font color="yellow"> Nothing available </font>|
+| [WorldQuant](https://www.worldquant.com/career-listing/)| NYC||||||<font color="yellow"> Nothing available </font>|
+| [XTX Markets](https://www.xtxmarkets.com/#careers)| London||||| Branched out of GSA capital.|<font color="yellow"> Nothing available </font>|
+| **Other Companies** |||||||<font color="orange"> Applied all </font>|
 | Blackark Capital |||||||
 | Allston Trading |||||||
 | Engineers Gate |||||||
